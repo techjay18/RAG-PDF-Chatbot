@@ -1,0 +1,17 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+
+logs.txt
+
+sample_data/
+
+faiss_index/
+
+*.pdf
+
+.ipynb_checkpoints/
