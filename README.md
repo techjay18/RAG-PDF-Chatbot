@@ -179,23 +179,18 @@ The application will open in your browser.
 
 ### Home Page
 
-```text
-Screenshots/home.png
-```
+![Home Page](Screenshots/home.png)
+
 
 ### Upload PDF
 
-```text
-Screenshots/upload.png
-```
+![Upload PDF](Screenshots/upload.png)
 
 
 
 ### Generated Answer
 
-```text
-Screenshots/answer.png
-```
+![Generated Answer](Screenshots/answer.png)
 
 ---
 
