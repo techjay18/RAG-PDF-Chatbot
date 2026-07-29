@@ -184,7 +184,7 @@ The application will open in your browser.
 
 ### Upload PDF
 
-![Upload PDF](Screenshots/upload.png)
+![Upload PDF](Screenshots/upload pdf.png)
 
 
 
