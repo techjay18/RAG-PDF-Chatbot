@@ -176,18 +176,17 @@ The application will open in your browser.
 
 ## 📸 Screenshots
 
-Add screenshots of your application in the `screenshots` folder and update the image paths below.
 
 ### Home Page
 
 ```text
-screenshots/home.png
+Screenshots/home.png
 ```
 
 ### Upload PDF
 
 ```text
-screenshots/upload.png
+Screenshots/upload.png
 ```
 
 
@@ -195,7 +194,7 @@ screenshots/upload.png
 ### Generated Answer
 
 ```text
-screenshots/answer.png
+Screenshots/answer.png
 ```
 
 ---
