@@ -184,7 +184,7 @@ The application will open in your browser.
 
 ### Upload PDF
 
-![Upload PDF](Screenshots/https://github.com/techjay18/RAG-PDF-Chatbot/blob/main/Screenshots/upload%20pdf.png)
+![Upload PDF](Screenshots/upload.png)
 
 
 
